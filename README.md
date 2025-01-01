@@ -23,3 +23,6 @@
       3. base:dev, compare:본인 브랜치 로 설정 후 Create pull request
       4. 내용 비교 및 title, description 알맞게 작성후 Create pull request 클릭
 6. 1 -> 3 -> 4 -> 5번 반복
+
+[주의사항]
+만약 
